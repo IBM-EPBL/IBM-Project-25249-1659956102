@@ -1,5 +1,3 @@
-# author: Arun Ponnusamy
-# website: https://www.arunponnusamy.com
 
 # import necessary packages
 import cv2
